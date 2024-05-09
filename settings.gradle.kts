@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Smart Mushroom"
+rootProject.name = "SmartMushrooms"
 include(":app")
  
